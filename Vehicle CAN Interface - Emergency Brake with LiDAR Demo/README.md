@@ -8,5 +8,4 @@ Markup : ![picture alt](https://github.com/atefemran/Deep-Orange13-playground/bl
 
 The main purpose of the node is just testing the vehicle interface pipeline created.
 
-## Sections
-* [Vehicle CAN Interface - Emergency Brake with LiDAR Demo](https://github.com/atefemran/Deep-Orange13-playground/tree/main/Vehicle%20CAN%20Interface%20-%20Emergency%20Brake%20with%20LiDAR%20Demo")
+
