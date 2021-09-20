@@ -8,4 +8,3 @@ The code is a part of the emergency brake demo for the vehicle interface over CA
 
 The main purpose of the node is just testing the vehicle interface pipeline created.
 
-
