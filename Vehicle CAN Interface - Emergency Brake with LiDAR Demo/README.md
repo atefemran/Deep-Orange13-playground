@@ -7,3 +7,4 @@ The code is a part of the emergency brake demo for the vehicle interface over CA
 ![picture alt](https://github.com/atefemran/Deep-Orange13-playground/blob/main/Vehicle%20CAN%20Interface%20-%20Emergency%20Brake%20with%20LiDAR%20Demo/images/readme02.PNG?raw=true)
 
 The main purpose of the node is just testing the vehicle interface pipeline created.
+
